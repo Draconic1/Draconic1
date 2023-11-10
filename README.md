@@ -1,8 +1,8 @@
 
 <h1 align="center" color="black">Hi there, I'm <a href="[https://daniilshat.ru/] (https://github.com/Draconic1)" target="_blank">Angelina</a>   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>    
-  <p><center>I'm junior frontend-developer.</p>  
-  <p>  In my projects I used React for the frontend and Node.js+Express for the backend. The mobile application is written in React Native. Database is MYSQL or SQLite (for the hostel booking application)</center></p>  
+  <p align="center">I'm junior frontend-developer.</p>  
+  <p  align="center">  In my projects I used React for the frontend and Node.js+Express for the backend. The mobile application is written in React Native. Database is MYSQL or SQLite (for the hostel booking application)</center></p>  
     <p></p> 
 <h3 align="center" color="black">Languages and Tools:</h3>  
   <p></p>  
@@ -10,15 +10,15 @@
   <p></p>  
     <p></p>  
     <center>
-<h3  color="black">Projects:</h3>  
+<h3  align="center" color="black">Projects:</h3>  
   <p></p>  
- <h3>📽️ <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Online-cinema</a></h3> 
+ <h3  align="center">📽️ <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Online-cinema</a></h3> 
 
-  <h3>📽️ <a href="https://github.com/Draconic1/online-cinema-mobile" target="_blank" rel="noreferrer">Online-cinema (mobile on React Native)</a></h3> 
+  <h3  align="center">📽️ <a href="https://github.com/Draconic1/online-cinema-mobile" target="_blank" rel="noreferrer">Online-cinema (mobile on React Native)</a></h3> 
 
- <h3>🌺 <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Flower shop</a></h3>  
+ <h3  align="center">🌺 <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Flower shop</a></h3>  
  
-<h3>🍽️  <a href="https://github.com/Draconic1/food-delivery" target="_blank" rel="noreferrer"> Food delievery</a></h3>   
+<h3  align="center">🍽️  <a href="https://github.com/Draconic1/food-delivery" target="_blank" rel="noreferrer"> Food delievery</a></h3>   
      
-  <h3>🅿  <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Online-parking</a></h3> </center>  
+  <h3 align="center">🅿  <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Online-parking</a></h3> </center>  
   
