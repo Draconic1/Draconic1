@@ -1,7 +1,6 @@
 
 <h1 align="center" color="black">Hi there, I'm <a href="[https://daniilshat.ru/] (https://github.com/Draconic1)" target="_blank">Angelina</a>   
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>    
-  <p align="center">I'm junior frontend-developer.</p>  
   <p  align="center">  In my projects I used React for the frontend and Node.js+Express for the backend. The mobile application is written in React Native. Database is MYSQL or SQLite (for the hostel booking application)</center>  
   <br></p>  
 <h3 align="center" color="black">Languages and Tools:</h3>   
