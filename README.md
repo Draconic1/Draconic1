@@ -15,7 +15,7 @@
 
   <h3  align="center">📽️ <a href="https://github.com/Draconic1/online-cinema-mobile" target="_blank" rel="noreferrer">Online-cinema (mobile on React Native)</a></h3> 
 
- <h3  align="center">🌺 <a href="https://github.com/Draconic1/oline-cinema" target="_blank" rel="noreferrer">Flower shop</a></h3>  
+ <h3  align="center">🌺 <a href="https://github.com/Draconic1/flower" target="_blank" rel="noreferrer">Flower shop</a></h3>  
  
 <h3  align="center">🍽️  <a href="https://github.com/Draconic1/food-delivery" target="_blank" rel="noreferrer"> Food delievery</a></h3>   
      
